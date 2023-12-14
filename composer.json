@@ -1,0 +1,16 @@
+{
+    "name": "smith/saman",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Core\\": "Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saman",
+            "email": "138027864+Sa-arash@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
