@@ -44,7 +44,7 @@ class Router
     }
     public function setRoute()
     {
-      $this->route = include_once('../routes/web.php');
+      $this->route = include_once('./routes/web.php');
     }
     public function getRoute()
     {
