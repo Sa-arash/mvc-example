@@ -1,7 +1,9 @@
 <?php
 require 'vendor/autoload.php';
 use Core\Router;
-new Router();
+use App\database\DBconnection;
+new DBconnection();
+// new Router();
 
 
 
